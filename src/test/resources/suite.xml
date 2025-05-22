@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Orange_hrm_demo">
+    <test name="Admin Login">
+        <groups>
+            <run>
+                <include name="smoke">
+                </include>
+            </run>
+        </groups>
+        <classes>
+           <class name="testRunner.Login_TestRunner">
+
+           </class>
+        </classes>
+    </test>
+   <test name=" Create New user">
+       <groups>
+           <run>
+               <include name="smoke">
+               </include>
+           </run>
+       </groups>
+        <classes>
+            <class name="testRunner.PIm_TestRunner">
+            </class>
+        </classes>
+    </test>
+    <test name=" User Login">
+
+        <classes>
+            <class name="testRunner.UserLoginTestRunner">
+            </class>
+        </classes>
+    </test>
+
+</suite>

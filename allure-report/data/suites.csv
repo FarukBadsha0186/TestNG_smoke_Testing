@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu May 22 14:18:42 BDT 2025","Thu May 22 14:18:43 BDT 2025","922","Orange_hrm_demo"," User Login","testRunner.UserLoginTestRunner","testRunner.UserLoginTestRunner","userLogin","userLogin",""
+"passed","Thu May 22 14:18:06 BDT 2025","Thu May 22 14:18:09 BDT 2025","2235","Orange_hrm_demo","Admin Login","testRunner.Login_TestRunner","testRunner.Login_TestRunner","do_login","do_login",""
+"passed","Thu May 22 14:18:04 BDT 2025","Thu May 22 14:18:06 BDT 2025","2506","Orange_hrm_demo","Admin Login","testRunner.Login_TestRunner","testRunner.Login_TestRunner","login_with_WrongPassword","login_with_WrongPassword",""
+"passed","Thu May 22 14:18:09 BDT 2025","Thu May 22 14:18:13 BDT 2025","4501","Orange_hrm_demo","Admin Login","testRunner.Login_TestRunner","testRunner.Login_TestRunner","do_logout","do_logout",""
